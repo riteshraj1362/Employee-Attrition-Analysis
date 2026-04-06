@@ -1,11 +1,11 @@
 # IBM HR Analytics - Employee Attrition Analysis
 
-## 📌 Overview
+##  Overview
 This project focuses on analyzing employee attrition using the IBM HR Analytics dataset. The goal is to identify key factors that influence employee turnover and build a simple machine learning model to predict whether an employee is likely to leave the organization.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze patterns and trends behind employee attrition  
 - Identify key factors affecting employee retention  
 - Perform exploratory data analysis (EDA)  
@@ -13,7 +13,7 @@ This project focuses on analyzing employee attrition using the IBM HR Analytics 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Source: IBM HR Analytics Dataset  
 - Records: 1470 employees  
 - Features: 35 columns (numerical + categorical)  
@@ -21,7 +21,7 @@ This project focuses on analyzing employee attrition using the IBM HR Analytics 
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 Key insights were derived using visualizations:
 - Attrition is higher among younger employees  
 - Frequent business travel increases attrition risk  
@@ -30,14 +30,14 @@ Key insights were derived using visualizations:
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 - Removed irrelevant columns  
 - Encoded categorical variables  
 - Feature selection and basic transformation applied  
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 Implemented simple machine learning models:
 - Logistic Regression  
 - Decision Tree  
@@ -49,14 +49,14 @@ Implemented simple machine learning models:
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 - Work-life balance, income, and job satisfaction are key drivers  
 - Employees with frequent travel and low satisfaction are more likely to leave  
 - ML models can effectively predict attrition trends  
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 This analysis helps organizations:
 - Identify employees at risk of leaving  
 - Improve employee engagement strategies  
@@ -64,14 +64,14 @@ This analysis helps organizations:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Use advanced models (XGBoost, etc.)  
 - Deploy model using Flask/Streamlit  
 - Add real-time prediction dashboard  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
